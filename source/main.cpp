@@ -1,6 +1,6 @@
 /*
  * Open Joystick Display Server NX
- * Copyright (C) 2019 Steven Mattera
+ * Copyright (C) 2019 Nichole Mattera
  * This file is part of OJDS-NX <https://github.com/chiditarod/dogtag>.
  *
  * OJDS-NX is free software: you can redistribute it and/or modify
